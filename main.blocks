@@ -1,1 +1,1 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id=".*RewOnub*QBRQq5DtpW" x="0" y="0"><statement name="HANDLER"><block type="buttonCombosTriggerType" id=")e^rtb)7J__S]VLnW_V4"><field name="t">TriggerType.Continuous</field></block></statement></block></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id=".*RewOnub*QBRQq5DtpW" x="0" y="0"/></xml>
